@@ -60,12 +60,15 @@ a {
     transform: translateX(0%);
   }
   35% {
+    background-image: url(images/58bd4fc9ebfccc1f2de419529bbf1a12.jpg);
     transform: translateY(100%);
   }
   66% {
+    background-image: url(images/48025aa532f549ee34f27bc311556e52.jpg);
     transform: translateX(100%) translateY(100%);
   }
   100% {
+    background-image: url(images/360_F_549863991_6yPKI08MG7JiZX83tMHlhDtd6XLFAMce.jpg);
     transform: translateX(100%);
   }
 }
